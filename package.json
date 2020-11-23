@@ -1,0 +1,19 @@
+{
+  "name": "exerciciopetshop",
+  "version": "1.0.0",
+  "description": "- Tema: Sistema PetShop\r - Tecnologia: Javascript\r O desafio consiste na criação de um sistema para atender o gerenciamento de um petshp. Serão desenvolvidas funções como cadastro de pets, vacinação e castração.",
+  "main": "adicionarPet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-evieira/ExercicioPetShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos-evieira/ExercicioPetShop/issues"
+  },
+  "homepage": "https://github.com/carlos-evieira/ExercicioPetShop#readme"
+}
